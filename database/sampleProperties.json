@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Luxury Penthouse with Skyline Views",
+    "description": "Experience premium urban living in this stunning penthouse located in the heart of downtown. Features floor-to-ceiling windows, high-end marble finishes, a spacious private terrace overlooking the city, and smart home systems. Access to resident lounge, indoor heated pool, and full-time concierge services included.",
+    "address": "404 Skyline Boulevard, Penthouse B",
+    "city": "mumbai",
+    "state": "maharashtra",
+    "price": 12500,
+    "propertyType": "apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 2800,
+    "amenities": ["WiFi", "AC", "Gym", "Pool", "Parking", "Pets Allowed", "Elevator", "Security", "Dishwasher"],
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "furnished": "yes",
+    "parking": true,
+    "petsAllowed": true,
+    "virtualTourUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "status": "approved",
+    "views": 320
+  },
+  {
+    "title": "Modern Minimalist Villa in Tech Corridor",
+    "description": "A gorgeous contemporary villa surrounded by lush greenery. Designed for peace and productivity, this villa features an open-plan layout, minimalist architectural lines, a dedicated home office setup with high-speed fiber connectivity, and double-glazed windows for absolute quiet.",
+    "address": "88 Innovators Lane",
+    "city": "bangalore",
+    "state": "karnataka",
+    "price": 8500,
+    "propertyType": "villa",
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "area": 3500,
+    "amenities": ["WiFi", "AC", "Gym", "Parking", "Pets Allowed", "Garden", "Home Office", "Power Backup"],
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "furnished": "semi",
+    "parking": true,
+    "petsAllowed": true,
+    "virtualTourUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "status": "approved",
+    "views": 210
+  },
+  {
+    "title": "Chic Cozy Studio near Central Station",
+    "description": "Perfect for young professionals or students, this compact but beautifully optimized studio offers micro-luxury. Rent includes high-speed fiber internet. Features built-in wardrobe, hideaway bed, induction stove, laundry washer-dryer combo, and soundproof windows.",
+    "address": "12 Metro Heights, Flat 3C",
+    "city": "delhi",
+    "state": "ncr",
+    "price": 2800,
+    "propertyType": "studio",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 450,
+    "amenities": ["WiFi", "AC", "Elevator", "Laundry Room", "Security"],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80"
+    ],
+    "furnished": "yes",
+    "parking": false,
+    "petsAllowed": false,
+    "virtualTourUrl": "",
+    "status": "approved",
+    "views": 440
+  },
+  {
+    "title": "Suburban Family House with Backyard",
+    "description": "Charming colonial-style family home situated in a top-rated school district. Features a huge fenced backyard with a patio, a detached two-car garage, a cozy fireplace in the living room, and a newly renovated modern kitchen.",
+    "address": "77 Maple Wood Drive",
+    "city": "mumbai",
+    "state": "maharashtra",
+    "price": 6000,
+    "propertyType": "house",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "area": 1900,
+    "amenities": ["AC", "Parking", "Pets Allowed", "Garden", "Fireplace", "Storage Room"],
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "furnished": "no",
+    "parking": true,
+    "petsAllowed": true,
+    "virtualTourUrl": "",
+    "status": "approved",
+    "views": 150
+  },
+  {
+    "title": "Luxury Glass-front Condominium",
+    "description": "Stunning corner-unit condo in a high-rise waterfront building. Features state-of-the-art integrated Miele appliances, quartz countertops, a walk-in wardrobe, and floor-to-ceiling glass walls offering unobstructed harbor views.",
+    "address": "900 Harbor Pointe, Unit 1804",
+    "city": "mumbai",
+    "state": "maharashtra",
+    "price": 9500,
+    "propertyType": "condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1400,
+    "amenities": ["WiFi", "AC", "Gym", "Pool", "Parking", "Elevator", "Security", "Waterfront"],
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80"
+    ],
+    "furnished": "yes",
+    "parking": true,
+    "petsAllowed": false,
+    "virtualTourUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "status": "approved",
+    "views": 275
+  },
+  {
+    "title": "Traditional Heritage Villa",
+    "description": "Exquisite heritage estate capturing vintage royalty. Featuring high timber ceilings, hand-painted tiles, private courtyard garden, antique furniture, and standard modern upgrades like automated central cooling and premium security.",
+    "address": "12 Residency Palace",
+    "city": "bangalore",
+    "state": "karnataka",
+    "price": 14000,
+    "propertyType": "villa",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 4800,
+    "amenities": ["AC", "Gym", "Pool", "Parking", "Garden", "Security", "Power Backup"],
+    "images": [
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "furnished": "yes",
+    "parking": true,
+    "petsAllowed": true,
+    "virtualTourUrl": "",
+    "status": "approved",
+    "views": 180
+  }
+]
